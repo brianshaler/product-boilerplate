@@ -18,7 +18,8 @@
     "coffee-script": "^1.7.0",
     "pluralize": "^0.0.7",
     "require-dir": "^0.1.0",
-    "async": "^0.2.10"
+    "async": "^0.2.10",
+    "clumper": "0.0.2"
   },
   "devDependencies": {
     "mocha": "^1.17.0",
